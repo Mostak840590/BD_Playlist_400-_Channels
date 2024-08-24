@@ -919,7 +919,7 @@ https://cdn2.pishow.tv/live/141/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYu-lRzPp9CL-bpjM7m4XlPqLLarr2p4YA-EF1nfiXEfzthgIqOISEizY&s=10" group-title="", B4U PLUS + (B)
 http://vo01.mohdtv.com:8880/live/voby5038/67747551/28903.m3u8
 #EXTINF: -1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBGOjjCApJ7xDkzCpqDcrIaGT22rPnd_LVtQ&usqp=CAU"group-title="", B4U BHOJPURI (B)
-http://xtv.ooo:8080/live/ramiz67/8774343/355988.ts
+http://14.102.123.50:5001/live/1296.m3u8
 
 
 
